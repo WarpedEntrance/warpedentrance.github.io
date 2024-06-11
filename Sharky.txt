@@ -1,0 +1,9 @@
+<span id="a">sharky@admin</span>:<span id="b">~</span><span id="c">$</span> cd DevStuff/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">aiden@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->webpage.txt<br/><br/>
+Hiya it is, "<span id="k"A Wonderful day</span>". <!-- sjkfhskjf -->
+
+Hey There! This is the /hub area of my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is not my showcase and other things.</p>
+<p>But just a quick intro to me and my work.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> My name is Aiden I am also know as Sharky65749 I love to code and learn new things. I am a avide baseball enjoyer and love to play sports. You can find my showcase and more details here <a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<p>Cya!   For now</p>
